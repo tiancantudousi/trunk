@@ -1,0 +1,12 @@
+export const offiesList = state => state.offiesList
+export const singlelist = state => state.singlelist
+export const province = state => state.province
+export const offiesize = state => state.offiesize
+export const areacode = state => state.areacode
+export const logindata = state => state.logindata
+export const cityCode = state => state.cityCode
+export const cityName = state => state.cityName
+export const countryCode = state => state.countryCode
+export const countryName = state => state.countryName
+export const hospitalName = state => state.hospitalName
+export const hospitalId = state => state.hospitalId
