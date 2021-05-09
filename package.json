@@ -19,7 +19,7 @@
     "element-ui": "^2.4.8",
     "es6-tween": "^5.3.1",
     "font-awesome": "^4.7.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "tween-ticker": "^3.3.2",
     "vue": "^2.5.2",
     "vue-baidu-map": "^0.21.14",
